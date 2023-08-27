@@ -20,8 +20,9 @@ Here is a list of some other resources to help you learn about Python and the re
 
 - [A Visual Intro to NumPy and Data Representation](http://jalammar.github.io/visual-numpy/): a visual tutorial to familiarize yourself with `numpy` which is the main library used for scientific computing in Python.
 - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/): a tutorial created for the CS231 Stanford course on CNNs.
-- [Pytorch for Beginners](https://pytorch.org/tutorials/beginner/basics/intro.html#)
+- [Pytorch for Beginners](https://pytorch.org/tutorials/beginner/basics/intro.html): introduction to a complete ML workflow implemented in PyTorch.
 - [PyTorch Tensors](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html): a guide to learning about Tensors and forward and backward passes using PyTorch.
+- [UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/): a series of very detailed Jupyter notebooks explaining a multitude of Deep Learning concepts.
 
 ## Hardware and Installation
 Please note that you need to make sure you have a higher end Nvidia GPU enabled
