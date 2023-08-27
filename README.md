@@ -7,7 +7,7 @@ We created a short [Introduction](introduction.md) about the prerequisites of th
 # Projects
 Projects will be handled using [BlackBoard](https://blackboard.kaust.edu.sa/).
 
-| Project Nr. | Anncouncement | Submission Deadline | Teaching Assistant | Topic                                             | Project Instructions |
+| Project Nr. | Announcement  | Submission Deadline | Teaching Assistant | Topic                                             | Project Instructions |
 | ----------- | ------------- | ------------------- | ------------------ | ------------------------------------------------- | -------------------- |
 | 1           | 2023-08-27    | 2023-09-17          | Ahmed Abdelreheem  | Image Classification                              |                      |
 | 2           | 2023-09-17    | 2023-10-08          | Shariq Bhat        | Dense Regression                                  |                      |
