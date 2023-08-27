@@ -9,7 +9,7 @@ Projects will be handled using [BlackBoard](https://blackboard.kaust.edu.sa/).
 
 | Project Nr. | Announcement  | Submission Deadline | Teaching Assistant | Topic                                             | Project Instructions |
 | ----------- | ------------- | ------------------- | ------------------ | ------------------------------------------------- | -------------------- |
-| 1           | 2023-08-27    | 2023-09-17          | Ahmed Abdelreheem  | Image Classification                              |                      |
+| 1           | 2023-08-27    | 2023-09-17          | Ahmed Abdelreheem  | Image Classification                              | [Intro](https://github.com/Exception1984/CS323-2023/blob/main/project_1_presentation.pdf) [Download](https://github.com/Exception1984/CS323-2023/blob/main/project_1.zip)                     |
 | 2           | 2023-09-17    | 2023-10-08          | Shariq Bhat        | Dense Regression                                  |                      |
 | 3           | 2023-10-08    | 2023-10-25          | Qian Wang          | Generative Modeling                               |                      |
 | 4           | 2023-10-25    | 2023-11-12          | Ahmed Abdelreheem  | StyleGAN Embedding                                |                      |                     
