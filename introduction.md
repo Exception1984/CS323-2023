@@ -1,4 +1,4 @@
-# CS323-2022
+# CS323-2023
 Deep Learning for Visual Computing Course @ KAUST
 
 
