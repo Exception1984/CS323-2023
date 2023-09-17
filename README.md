@@ -9,8 +9,8 @@ We created a short [Introduction](introduction.md) about the prerequisites of th
 
 | Project Nr. | Announcement  | Submission Deadline | Teaching Assistant | Topic                                             | Project Instructions |
 | ----------- | ------------- | ------------------- | ------------------ | ------------------------------------------------- | -------------------- |
-| 1           | 2023-08-27    | 2023-09-17          | Ahmed Abdelreheem  | Image Classification                              | [Intro](https://github.com/Exception1984/CS323-2023/blob/main/project_1_presentation.pdf) [Download](https://github.com/Exception1984/CS323-2023/blob/main/project_1.zip)                             |
-| 2           | 2023-09-17    | 2023-10-08          | Shariq Bhat        | Dense Regression                                  | [Intro](https://github.com/Exception1984/CS323-2023/blob/main/Intro_Project2_Dense_Prediction.pptx) [Download](https://github.com/Exception1984/CS323-2023/blob/main/Project2_Dense_Prediction.zip)   |
+| 1           | 2023-08-27    | 2023-09-17          | Ahmed Abdelreheem  | Image Classification                              | [Intro](https://github.com/Exception1984/CS323-2023/blob/main/project_1_presentation.pdf), [Download](https://github.com/Exception1984/CS323-2023/blob/main/project_1.zip)                             |
+| 2           | 2023-09-17    | 2023-10-08          | Shariq Bhat        | Dense Prediction                                  | [Intro](https://github.com/Exception1984/CS323-2023/blob/main/Intro_Project2_Dense_Prediction.pptx), [Download](https://github.com/Exception1984/CS323-2023/blob/main/Project2_Dense_Prediction.zip)   |
 | 3           | 2023-10-08    | 2023-10-25          | Qian Wang          | Diffusion                                         |                      |
 | 4           | 2023-10-25    | 2023-11-12          | Ahmed Abdelreheem  | Point Transformer                                 |                      |                     
 | 5           | 2023-11-12    | 2023-12-03          | Shariq Bhat        | Language/Vision Transformer                       |                      |
